@@ -36,3 +36,10 @@ Use otu_labels for the text values.
 ![Alt text](image-3.png)
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
+
+# Sources
+
+Used ChatGPT to verify code and help fix errors.
+
+
+
